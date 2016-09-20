@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Docker Education Teams <education@docker.com>
+MAINTAINER Docker Education Teamss <education@docker.com>
 
 RUN apt-get update
 RUN apt-get install -y nginx
